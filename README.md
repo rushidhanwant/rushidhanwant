@@ -27,10 +27,10 @@
 * Indexers:  The Graph's Subgraph
 * Web3 Libs: EtherJS, web3.js, Wallet Connect
 * Backend: NodeJS
-    - Frameworks: Hapi.js
+    - Frameworks: Hapi.js, Express.js
 * Frontend: React, HTML, CSS
 * Database: PostgreSQL
-* DevOps: AWS, 
+* DevOps: AWS, GCP
 ```
 
 <h3>
@@ -38,8 +38,9 @@
 </h3>
 
 ```
-* Working on [Devnode](https://github.com/DevNode-Dev/devnode)
-    - Building decentralised developer learning platform.
+* Worked on [Devnode](https://github.com/DevNode-Dev/devnode)
+    - Built decentralised developer learning platform.
+    - Leveraged decentralized storage provided Ceramic's Composedb
 * Worked on [Clipto](https://github.com/Clipto-Platform)
     - Built platform contracts in Solidity
     - Designed website with React and Typescript
