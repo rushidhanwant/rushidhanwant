@@ -21,16 +21,26 @@
 </h3>
 
 ```
-* Contract Development
+* Web Development
+- Backend: NodeJS
+    - Frameworks: Hapi.js, Express.js
+-  Frontend: React, HTML, CSS
+- Database: PostgreSQL
+- DevOps: AWS, GCP
+
+* Generative AI
+- Language: Python
+- LLM: Gpt
+- Framework: Langchain
+- Concept: RAG, QnA, Agents, Prompt Tuning, Vectors and Database.
+
+* web3
+- Contract Development
     - Lang: Solidity
     - Frameworks/Testing: Hardhat
-* Indexers:  The Graph's Subgraph
-* Web3 Libs: EtherJS, web3.js, Wallet Connect
-* Backend: NodeJS
-    - Frameworks: Hapi.js, Express.js
-* Frontend: React, HTML, CSS
-* Database: PostgreSQL
-* DevOps: AWS, GCP
+- Indexers:  The Graph's Subgraph
+- Web3 Libs: EtherJS, web3.js, Wallet Connect
+
 ```
 
 <h3>
@@ -38,14 +48,19 @@
 </h3>
 
 ```
-* Worked on [Devnode](https://github.com/DevNode-Dev/devnode)
+* [Truecaller Backend] (https://github.com/rushidhanwant/truecaller-backend)
+    - Global contact database
+    - View contact information
+    - Mark a number as spam
+    - Contacts Spam possibility
+* [Devnode](https://github.com/DevNode-Dev/devnode)
     - Built decentralised developer learning platform.
     - Leveraged decentralized storage provided Ceramic's Composedb
-* Worked on [Clipto](https://github.com/Clipto-Platform)
+* [Clipto](https://github.com/Clipto-Platform)
     - Built platform contracts in Solidity
     - Designed website with React and Typescript
     - Backend with NextJS, Subgraph for data querying
-* Worked on [Crop Prediction](https://github.com/rushidhanwant/Crop-prediction-)
+* [Crop Prediction](https://github.com/rushidhanwant/Crop-prediction-)
     - Developed a Deep Neural Networks Machine Learning Modal for prediction of crop yeild
     - Leveraged last 20 years of crop yeild data having 2 Million data entries to train the Model
 ```
