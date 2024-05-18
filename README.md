@@ -24,7 +24,7 @@
 * Web Development
 - Backend: NodeJS
     - Frameworks: Hapi.js, Express.js
--  Frontend: React, HTML, CSS
+-  Frontend: React, Redux, HTML, CSS
 - Database: PostgreSQL
 - DevOps: AWS, GCP
 
